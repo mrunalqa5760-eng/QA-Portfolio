@@ -175,3 +175,30 @@ If you find my work useful, feel free to explore my repositories,
 connect with me, or discuss a suitable QA collaboration.
 
 ⭐ Let's build better software through better testing!
+
+
+## 📚 QA Portfolio Documentation
+
+Explore my sample QA documentation and testing projects.
+
+### 🔐 Login Module Testing
+- [Login Module Test Cases](Test-Cases/Login-Module-Test-Cases.md)
+- [Sample Bug Reports](Bug-Reports/Sample-Bug-Reports.md)
+- [Login Module Test Plan](Test-Plan/Login-Module-Test-Plan.md)
+- [Login Test Execution Report](Test-Execution/Login-Module-Execution-Report.md)
+- [Login Module RTM](RTM/Login-Module-RTM.md)
+
+### 🛒 E-commerce Testing
+- [E-commerce Testing Case Study](Case-Studies/E-Commerce-Testing-Case-Study.md)
+
+### 📌 Portfolio Status
+- Login test cases: Designed
+- Bug reports: Illustrative samples
+- Test plan: Proposed
+- Test execution: Not performed
+- RTM: Sample requirements mapped to test cases
+- E-commerce case study: Proposed scenarios
+
+*These are portfolio demonstrations. Actual test results will
+be added only after execution against an authorized application.*
+
